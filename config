@@ -1,0 +1,5 @@
+export PYTHONPATH=app/
+export QIITA_PAGE=1
+export QIITA_PER_PAGE=100
+export QIITA_URL_ITEM=qiita.com/api/v2/items
+export QIITA_URL_LIST=qiita.com/api/v2/authenticated_user/items
